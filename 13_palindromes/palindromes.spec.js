@@ -1,4 +1,4 @@
-const palindromes = require('./palindromes-solution');
+const palindromes = require('./palindromes');
 
 describe('palindromes', () => {
   test('works with single words', () => {

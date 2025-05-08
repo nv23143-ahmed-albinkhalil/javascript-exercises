@@ -1,4 +1,4 @@
-const getTheTitles = require('./getTheTitles-solution');
+const getTheTitles = require('./getTheTitles');
 
 describe('getTheTitles', () => {
   const books = [
